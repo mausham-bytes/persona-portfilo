@@ -14,10 +14,6 @@
 🌐 Check out my Portfolio:  
 🔗 [maushamportifilo.netlify.app](https://maushamportifilo.netlify.app/)
 
-📫 Reach me at:  
-📧 `mausham.yourmail@example.com`  
-📱 [LinkedIn](https://www.linkedin.com/in/your-link) (replace with real link)
-
 ---
 
 🛠️ **Tech Stack**
