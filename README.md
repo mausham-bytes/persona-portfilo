@@ -1,4 +1,4 @@
-# persona-portfilo
+# personal-portfilo
 # 👋 Hi, I'm Mausham
 
 💻 IoT & Embedded Systems Enthusiast | ⚡ ESP32 Developer | 📱 Mobile + Cloud Integrator
